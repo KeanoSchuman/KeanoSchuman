@@ -13,7 +13,9 @@ Over the years I've had many projects which I have worked on.
 ### 📱 | Development
 - Java
 - JavaScript
-- Currently learning: C++
+- HTML CSS
+- React
+- C#
 
 ### 📞 | Contact
 You can only contact me via Discord. My username is "kermisreiziger".
