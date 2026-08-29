@@ -1,4 +1,4 @@
-# 🎡 | KermisReiziger
+# 🎡 | Keano Schuman
 
 Hello! My name is Keano. I am keeping myself busy with development for a total of 7 years now.
 Over the years I've had many projects which I have worked on.
